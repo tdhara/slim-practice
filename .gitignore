@@ -1,0 +1,13 @@
+/vendor/
+/logs/*
+!/logs/README.md
+
+lib
+logs
+test
+composer.json
+composer.lock
+CONTRIBUTING.md
+docker-compose.yml
+phpunit.xml
+README.md
